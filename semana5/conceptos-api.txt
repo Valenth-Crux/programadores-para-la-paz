@@ -1,0 +1,33 @@
+1)
+
+La ruta POST /reporte recibe datos enviados por el usuario en el cuerpo
+(body) de la solicitud HTTP. Específicamente espera un campo llamado
+"mensaje". Una vez recibido, el servidor responde con un objeto JSON
+que contiene dos campos:
+  - "estado": confirma que el reporte fue recibido correctamente.
+  - "mensaje": devuelve el mismo texto que el usuario envió.
+ 
+A diferencia de las rutas GET, esta ruta no se puede probar directamente
+escribiendo la URL en el navegador, ya que requiere enviar datos en el
+cuerpo de la petición. Se prueba con herramientas como Postman,
+Thunder Client, o desde código JavaScript usando fetch().
+ 
+Ejemplo de solicitud:
+  POST http://localhost:3000/reporte
+  Body (JSON): { "mensaje": "Fuga de agua en el parque central" }
+ 
+Ejemplo de respuesta:
+  { "estado": "Reporte recibido", "mensaje": "Fuga de agua en el parque central" }
+
+2)
+
+Esta ruta sería muy útil en una aplicación para comunidades o barrios.
+Los habitantes podrían usarla para enviar reportes sobre problemas en su
+entorno, como daños en la infraestructura, fallas en el alumbrado público,
+acumulación de basura, o situaciones de riesgo.
+ 
+La ruta recibiría el mensaje del ciudadano, lo registraría en el sistema
+y podría redirigirlo automáticamente a las autoridades o administradores
+correspondientes. Así se organiza la comunicación entre la comunidad y
+quienes tienen la responsabilidad de dar solución, sin necesidad de
+desplazamientos ni trámites presenciales.

@@ -1,0 +1,20 @@
+Las APIs pueden transformar la manera en que las comunidades se organizan
+y comparten información. En muchos barrios y municipios, los reportes de
+problemas como daños en vías, fallas en servicios o situaciones de riesgo
+se hacen de forma informal, lo que hace difícil darles seguimiento.
+ 
+Con una API bien diseñada, cualquier habitante podría enviar un reporte
+desde su celular en segundos, y ese mensaje llegaría directamente a quien
+corresponde atenderlo. Además, la información quedaría registrada con
+fecha, tipo de problema y ubicación, lo que permite hacer seguimiento y
+medir cuáles son los problemas más frecuentes en la comunidad.
+ 
+Las APIs también permitirían conectar distintas aplicaciones entre sí.
+Por ejemplo, una app de alertas podría comunicarse con un sistema municipal,
+con redes sociales comunitarias y con servicios de emergencia al mismo
+tiempo, todo de forma automática y organizada.
+ 
+En resumen, las APIs son como canales de comunicación que hacen posible
+que la información fluya de manera rápida, ordenada y accesible para todos,
+fortaleciendo la participación ciudadana y la capacidad de respuesta
+de las comunidades ante sus propias necesidades.
