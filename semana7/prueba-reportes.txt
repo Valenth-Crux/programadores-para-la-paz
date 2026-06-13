@@ -1,0 +1,15 @@
+Al enviar un POST a /reportes con {"tipo":"Infraestructura","descripcion":"Daño en alumbrado público"},
+el servidor crea un objeto con un id automático y lo guarda en el array reportes en memoria.
+Responde con:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": { "id": 1, "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" }
+}
+
+Al consultar GET /reportes, el servidor devuelve la lista completa de reportes guardados:
+[
+  { "id": 1, "tipo": "Infraestructura", "descripcion": "Daño en alumbrado público" }
+]
+
+Nota: si se reinicia el servidor, la lista vuelve a estar vacía porque los datos
+se almacenan en memoria y no en una base de datos.
