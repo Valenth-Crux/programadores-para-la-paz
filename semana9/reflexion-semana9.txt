@@ -1,0 +1,12 @@
+La estabilidad y seguridad de un servidor son fundamentales para cualquier plataforma
+tecnológica comunitaria porque los usuarios dependen de ella para comunicarse,
+reportar incidencias y participar en procesos colectivos. Si el servidor falla
+en un momento crítico, se interrumpe la comunicación y se pierde la confianza
+de quienes usan la plataforma. Un servidor estable garantiza que los datos
+enviados por los ciudadanos lleguen correctamente y estén disponibles cuando
+se necesiten consultar. La seguridad del servidor protege además la información
+personal de los usuarios, evitando accesos no autorizados o pérdida de datos.
+En entornos reales se usan herramientas de monitoreo, gestión de procesos y
+registros de actividad para detectar fallas antes de que afecten a los usuarios.
+Esto demuestra que mantener un servidor no es solo encenderlo, sino cuidarlo
+continuamente con buenas prácticas técnicas y operativas.
