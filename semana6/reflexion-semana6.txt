@@ -1,0 +1,10 @@
+Es fundamental que las plataformas tecnológicas puedan recibir reportes ciudadanos
+de forma estructurada porque garantiza que la información llegue completa y sin errores.
+Cuando los datos están organizados en un formato como JSON, los sistemas pueden
+procesarlos automáticamente, agilizando la respuesta de las autoridades.
+Además, permite registrar y almacenar los reportes de manera ordenada en bases de datos,
+facilitando el seguimiento de cada caso.
+La participación ciudadana digital fortalece la democracia y la transparencia,
+ya que cualquier persona puede reportar una problemática desde su dispositivo.
+Finalmente, los datos estructurados permiten generar estadísticas e identificar
+las necesidades más urgentes de cada comunidad para una mejor toma de decisiones.

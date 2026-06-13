@@ -1,0 +1,9 @@
+Al enviar un POST a /registro con {"nombre":"Maria","mensaje":"Hola comunidad"},
+el servidor responde con:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+El middleware express.json() lee el cuerpo de la petición y lo deja disponible
+en req.body para poder usarlo en la respuesta.
