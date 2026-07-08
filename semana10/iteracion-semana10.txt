@@ -1,0 +1,12 @@
+Tareas a realizar primero:
+1. Registrar una incidencia (historia 1)
+2. Recibir alerta en Telegram (historia 2)
+
+Por qué son las más importantes:
+Son la base del flujo: sin el registro no hay nada que reportar,
+y sin la alerta el equipo no se entera a tiempo de un nuevo caso.
+
+Definición de terminado:
+- Funciona sin errores.
+- Fue probada al menos una vez con datos de ejemplo.
+- Quedó registrada y versionada en Git.

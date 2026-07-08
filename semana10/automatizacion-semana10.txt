@@ -1,0 +1,9 @@
+Evento que activa el flujo: se registra un nuevo reporte en el sistema.
+
+Acción: n8n envía un mensaje automático a un grupo de Telegram.
+
+Mensaje: "Nuevo reporte recibido. Revisar sistema."
+
+Información que no debe enviarse por seguridad:
+nombres completos, números de identificación, direcciones,
+teléfonos, claves o cualquier dato sensible del ciudadano.
