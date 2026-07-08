@@ -1,0 +1,11 @@
+Una plataforma tecnológica que promueve la participación ciudadana necesita
+una base de datos para almacenar de forma ordenada las causas, los apoyos
+y demás información generada por la comunidad, evitando la pérdida o
+desorganización de los datos. La autenticación de usuarios es igual de
+importante, porque permite saber quién realiza cada acción y evita que
+personas no autorizadas modifiquen o eliminen información sensible.
+Además, proteger la información es una responsabilidad ética: los datos
+personales de la comunidad no deben quedar expuestos ni ser usados sin
+consentimiento. En conjunto, estos tres elementos —base de datos,
+autenticación y protección de datos— generan confianza en la plataforma
+y garantizan que la participación ciudadana se dé en un entorno seguro.

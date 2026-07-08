@@ -1,0 +1,11 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas
+funciones de la plataforma, evitando que cualquier persona pueda actuar
+en nombre de otra o modificar información que no le corresponde.
+
+Algunas rutas deben estar protegidas porque contienen información privada,
+registros internos o acciones administrativas que no deberían estar
+disponibles para cualquier visitante del sistema.
+
+No se deben exponer públicamente contraseñas, documentos de identidad,
+teléfonos, direcciones, tokens, claves de API ni ningún dato sensible
+de los miembros de la comunidad.
