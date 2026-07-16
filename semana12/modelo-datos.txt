@@ -1,0 +1,15 @@
+Entidad: Causa
+- id: identificador único de la causa
+- titulo: nombre corto que describe la petición
+- descripcion: explicación detallada de la causa
+- fecha: fecha de creación de la causa
+
+Sirve para almacenar la información principal de cada petición ciudadana registrada en el sistema.
+
+Entidad: Apoyo
+- id: identificador único del apoyo
+- causa_id: relación con la causa que se apoya
+- nombre: nombre de quien apoya (dato mínimo necesario)
+- fecha: fecha en que se registró el apoyo
+
+Sirve para llevar el conteo de quiénes respaldan una causa, sin necesitar almacenar datos sensibles adicionales.

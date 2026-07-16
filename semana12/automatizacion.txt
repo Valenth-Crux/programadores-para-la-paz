@@ -1,0 +1,9 @@
+Evento: Se registra una nueva causa en la plataforma.
+Mensaje enviado: "Nueva causa creada en la plataforma: [titulo de la causa]".
+Canal: Notificación automática vía Telegram o flujo de n8n.
+
+Información que NO debe enviarse por seguridad:
+- Cédulas o documentos de identidad
+- Números de teléfono
+- Direcciones físicas
+- Comentarios sensibles o datos personales de los ciudadanos que apoyan la causa
